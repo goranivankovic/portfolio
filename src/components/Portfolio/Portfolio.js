@@ -111,7 +111,7 @@ useEffect(() => {
 								
 									<div style={{color:textColor}}>
 									
-										Full e-Commerce Web App, completly responsive, made from scratch using: React, React Router, React-bootstrap and React-redux for state management.
+										Full e-Commerce Web App, completely responsive, made from scratch using: React, React Router, React-bootstrap and React-redux for state management.
 										
 										  With advanced cart functionalities, and many other features. For longer description visit github.
                                     </div>
@@ -138,7 +138,7 @@ useEffect(() => {
 								
 									<div style={{color:textColor}}>
 									
-										Dynamic, completly responsive app made from scratch using : React , React Router, React-bootstrap, Dotenv, React-icons. For longer description visit github.
+										Dynamic, completely responsive app made from scratch using : React , React Router, React-bootstrap, Dotenv, React-icons. For longer description visit github.
                                     </div>
 
 									<div className={protfolioStyles.secondDivItem2Buttons}><a href='https://nscoder-movie.netlify.app' style={{color:textColor}}  target='_blank'>Live</a> <a href='https://github.com/goranivankovic/react-movie' style={{color:textColor}}  target='_blank'>Code</a> </div>
@@ -191,7 +191,7 @@ useEffect(() => {
 								
 									<div style={{color:textColor}}>
 									
-									Dynamic, completly responsive app made from scratch using : React , React Router, React-icons. For longer description visit github.
+									Dynamic, completely responsive app made from scratch using : React , React Router, React-icons. For longer description visit github.
                                     </div>
 
 									<div className={protfolioStyles.secondDivItem2Buttons}><a href='https://nscoder-fit.netlify.app' style={{color:textColor}}  target='_blank'>Live</a> <a href='https://github.com/goranivankovic/fitness-app' style={{color:textColor}}  target='_blank'>Code</a> </div>
@@ -220,7 +220,7 @@ useEffect(() => {
 								
 									<div style={{color:textColor}}>
 									
-									Dynamic, completly responsive app made from scratch using : React, Redux , React Router, React-icons, React-anime. For longer description visit github.
+									Dynamic, completely responsive app made from scratch using : React, Redux , React Router, React-icons, React-anime. For longer description visit github.
                                     </div>
 
 									<div className={protfolioStyles.secondDivItem2Buttons}><a href='https://gomadesign.netlify.app' style={{color:textColor}}  target='_blank'>Live</a> <a href='https://github.com/goranivankovic/gomadesign' style={{color:textColor}}  target='_blank'>Code</a> </div>

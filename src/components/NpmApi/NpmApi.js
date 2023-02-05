@@ -182,7 +182,7 @@ useEffect(() => {
 								
 									<div style={{color:textColor}}>
 									
-									Dynamic, completly responsive Wc-api with integrate API, made from scratch using: Next.js , React , CSS-Modules... And many other features. For longer description visit github.
+									Dynamic, completely responsive Wc-api with integrate API, made from scratch using: Next.js , React , CSS-Modules... And many other features. For longer description visit github.
                                     </div>
 
 									<div className={npmStyles.secondDivItem2Buttons}><a href='https://nscoder-wc-api.vercel.app' style={{color:textColor}}  target='_blank'>Live</a> <a href='https://github.com/goranivankovic/wc-api' style={{color:textColor}}  target='_blank'>Code</a> </div>
@@ -203,7 +203,7 @@ useEffect(() => {
 								
 									<div style={{color:textColor}}>
 
-										Dynamic, completly responsive Blog with integrate API, made from scratch using: Next.js , React , CSS-Modules... And many other features. For longer description visit github.
+										Dynamic, completely responsive Blog with integrate API, made from scratch using: Next.js , React , CSS-Modules... And many other features. For longer description visit github.
 									
 										
                                     </div>
