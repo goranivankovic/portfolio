@@ -1,0 +1,383 @@
+
+
+
+ .main{
+   
+   position: sticky;
+   top: 0%;
+
+
+    min-height: 10vmin;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+      z-index: 50;
+
+
+
+
+ }
+
+ .first{
+     min-height: 10vmin;
+     width: 75%;
+    display: flex;
+      align-items: center;
+      justify-content: space-around;
+     z-index: 10;
+
+      
+   
+ }
+
+ .first a{
+  font-size: 2.1vmin;
+  text-decoration: none;
+
+ }
+
+
+ .first a:hover{
+  font-size: 2.1vmin;
+    transition: 750ms;
+     color: #f0ad4e;
+     text-decoration: none;
+ }
+
+
+ .sun{
+ 
+  font-size: 3.5vmin;
+  cursor: pointer;
+ }
+
+ .sun:hover{
+    color: #f0ad4e;
+  transition: 750ms;
+
+ }
+
+
+ .barsDiv{
+
+
+  display: none;
+ }
+
+
+  .main768{
+    display: none;
+  }
+
+
+
+
+     @media screen and (max-width:1200px) {
+
+      .first a {
+          font-size: 1.9vmin;
+          text-decoration: none;
+      
+        }
+
+
+     }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ @media screen and (max-width:768px) {
+
+     .main {
+  
+         display: none;
+  
+     }
+
+         .barsDiv {
+           position: fixed;
+           top: 0%;
+          left: 0%;
+
+           height: 10vmin;
+           width: 95%;
+           display: flex;
+           align-items: center;
+           justify-content: flex-end;
+           font-size: 3vmin;
+        
+    
+           z-index: 200;
+         
+          
+    
+           display: flex;
+         }
+
+
+
+                 .main768 {
+
+                    position: fixed;
+                      top: 0%;
+                      left: 0%;
+                      padding-top: 30px;
+        
+                 
+        
+            
+
+                   min-height: 70vmin;
+                   width: 100%;
+                   display: flex;
+                   flex-direction: column;
+                   align-items: center;
+                   justify-content: space-around;
+                   z-index: 150;
+                   background-color: #3d3d3d;
+                
+                   
+                   
+        
+                 
+
+                   /* border: 2px solid red; */
+
+
+        
+        
+        
+                 }
+
+
+                                 .main768 a {
+                                   font-size: 2.3vmin;
+                                   text-decoration: none;
+                
+                                 }
+                
+                
+                                 .main768 a:hover {
+                                   font-size: 2.2vmin;
+                                   transition: 750ms;
+                                   color: #f0ad4e;
+                                   text-decoration: none;
+                                 }
+
+
+
+
+
+
+ }
+
+
+
+
+
+
+@media screen and (max-width:600px) {
+
+
+  .barsDiv {
+    position: fixed;
+    top: 0%;
+    left: 0%;
+
+    height: 13vmin;
+    width: 93%;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    font-size: 3.2vmin;
+
+
+    z-index: 200;
+
+
+
+    display: flex;
+  }
+
+
+
+  .main768 {
+
+    position: fixed;
+    top: 0%;
+    left: 0%;
+    padding-top: 30px;
+
+
+
+
+
+    min-height: 80vmin;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+    z-index: 150;
+    background-color: #3d3d3d;
+
+
+
+
+
+
+    /* border: 2px solid red; */
+
+
+
+
+
+  }
+
+
+  .main768 a {
+    font-size: 2.5vmin;
+    text-decoration: none;
+
+  }
+
+
+        .main768 a:hover {
+          font-size: 2.4vmin;
+          transition: 750ms;
+          color: #f0ad4e;
+          text-decoration: none;
+        }
+
+
+
+                 .sun {
+        
+                   font-size: 3.8vmin;
+                   cursor: pointer;
+                 }
+
+
+
+
+}
+
+
+
+
+
+
+
+
+@media screen and (max-width:500px) {
+
+
+  .barsDiv {
+    position: fixed;
+    top: 0%;
+    left: 0%;
+
+    height: 14vmin;
+    width: 93%;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    font-size: 3.4vmin;
+
+
+    z-index: 200;
+
+
+
+    display: flex;
+  }
+
+
+
+  .main768 {
+
+    position: fixed;
+    top: 0%;
+    left: 0%;
+    padding-top: 30px;
+
+
+
+
+
+    min-height: 110vmin;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+    z-index: 150;
+    background-color: #3d3d3d;
+
+
+
+
+
+
+    /* border: 2px solid red; */
+
+
+
+
+
+  }
+
+
+  .main768 a {
+    font-size: 3vmin;
+    text-decoration: none;
+
+  }
+
+
+    .main768 a:hover {
+      font-size: 2.9vmin;
+      transition: 750ms;
+      color: #f0ad4e;
+      text-decoration: none;
+    }
+
+
+ .sun {
+
+   font-size:4.7vmin;
+   cursor: pointer;
+ }
+
+
+
+
+}
+
+
+
+
+
+
+
+

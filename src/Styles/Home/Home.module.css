@@ -1,0 +1,654 @@
+
+
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+.main{
+    min-height: 70vmin;
+    width: 100%;
+    cursor: pointer;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  
+    /* background-color: black; */
+
+}
+
+
+
+.particles{
+    height: 95vmin;
+    width: 100%;
+    position: absolute;
+    top: 0%;
+    left: 0%;
+    padding: 0%;
+    margin: 0%;
+ 
+}
+
+
+.firstDiv {
+
+    height: 25vmin;
+    width: 80%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+    z-index: 3;
+    color: white;
+  
+
+    /* border: 1px solid red; */
+
+
+}
+
+.firstdivHeadline {
+
+    font-size: 4vmin;
+    color: #f0ad4e;
+
+    /* border: 2px solid red; */
+
+ 
+}
+
+.firstdivText {
+
+    font-size: 2.7vmin;
+
+        /* border: 2px solid red; */
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.buttonLinkDiv {
+    height: 10vmin;
+    width: 90%;
+    z-index: 100;
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+
+    /* border: 2px solid red; */
+
+}
+
+
+
+.button {
+    width: 150px;
+    padding: 7px;
+    border-radius: 7px;
+    background-color: transparent;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    text-decoration: none;
+    border: 2px solid #f0ad4e;
+
+    width: 20vmin;
+    height: 5.5vmin;
+    font-size: 2.1vmin;
+
+    cursor: pointer;
+
+
+
+
+
+
+}
+
+.button:hover {
+    transition: 600ms;
+    background-color: #f0ad4e;
+    color: white;
+}
+
+
+
+@media only screen and (min-width: 1922px) and (max-width: 2562px) {
+
+}
+
+
+
+
+
+
+
+
+
+
+
+@media only screen and (max-width: 768px) {
+
+
+
+
+    .main {
+            min-height: 90vmin;
+            width: 100%;
+            cursor: pointer;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+    
+            /* background-color: black; */
+    
+        }
+    
+    
+    
+        .particles {
+          display: none;
+    
+        }
+    
+    
+        .firstDiv {
+    
+            height: 25vmin;
+            width: 80%;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: space-around;
+            z-index: 3;
+            color: white;
+    
+    
+   
+    
+    
+        }
+    
+        .firstdivHeadline {
+    
+            font-size: 4vmin;
+            color: #f0ad4e;
+    
+
+    
+    
+        }
+    
+        .firstdivText {
+    
+            font-size: 2.7vmin;
+    
+     
+    
+        }
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+        .buttonLinkDiv {
+            height: 10vmin;
+            width: 90%;
+            z-index: 100;
+            display: flex;
+            align-items: flex-end;
+            justify-content: center;
+    
+
+    
+        }
+    
+    
+    
+        .button {
+         
+            padding: 7px;
+            border-radius: 7px;
+            background-color: transparent;
+            color: white;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+    
+            text-decoration: none;
+            border: 2px solid #f0ad4e;
+    
+            width: 20vmin;
+            height: 5.5vmin;
+            font-size: 2.1vmin;
+    
+            cursor: pointer;
+    
+    
+    
+    
+    
+    
+        }
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media only screen and (max-width: 600px) {
+
+
+
+
+    .main {
+        min-height: 120vmin;
+        width: 100%;
+        cursor: pointer;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+
+        /* background-color: black; */
+
+    }
+
+
+
+     
+
+
+    .firstDiv {
+
+        height: 25vmin;
+        width: 80%;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: space-around;
+        z-index: 3;
+        color: white;
+
+
+
+
+
+    }
+
+    .firstdivHeadline {
+
+        font-size: 4.2vmin;
+        color: #f0ad4e;
+
+
+
+
+    }
+
+    .firstdivText {
+
+        font-size: 3vmin;
+        text-align: center;
+
+
+
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    .buttonLinkDiv {
+        height: 10vmin;
+        width: 90%;
+        z-index: 100;
+        display: flex;
+        align-items: flex-end;
+        justify-content: center;
+
+
+
+    }
+
+
+
+    .button {
+      
+        padding: 7px;
+        border-radius: 7px;
+        background-color: transparent;
+        color: white;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+
+        text-decoration: none;
+        border: 2px solid #f0ad4e;
+
+        width: 22vmin;
+        height: 6vmin;
+        font-size: 2.4vmin;
+
+        cursor: pointer;
+
+
+
+
+
+
+    }
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media only screen and (max-width: 500px) {
+
+
+
+
+    .main {
+        min-height: 150vmin;
+        width: 100%;
+        cursor: pointer;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+
+        /* background-color: black; */
+
+    }
+
+
+
+ 
+
+
+    .firstDiv {
+
+        height: 25vmin;
+        width: 90%;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: space-around;
+        z-index: 3;
+        color: white;
+
+
+
+
+
+    }
+
+    .firstdivHeadline {
+
+        font-size: 4.2vmin;
+        color: #f0ad4e;
+
+
+
+
+    }
+
+    .firstdivText {
+
+        font-size: 3.2vmin;
+        text-align: center;
+
+
+
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    .buttonLinkDiv {
+        height: 10vmin;
+        width: 90%;
+        z-index: 100;
+        display: flex;
+        align-items: flex-end;
+        justify-content: center;
+
+
+
+    }
+
+
+
+    .button {
+
+        padding: 7px;
+        border-radius: 7px;
+        background-color: transparent;
+        color: white;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+
+        text-decoration: none;
+        border: 2px solid #f0ad4e;
+
+        width: 23vmin;
+        height: 6.6vmin;
+        font-size: 2.75vmin;
+
+        cursor: pointer;
+
+
+
+
+
+
+    }
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media only screen and (max-width: 450px) {
+
+
+
+
+
+
+
+ 
+
+    .firstDiv {
+
+        height: 25vmin;
+        width: 90%;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: space-around;
+        z-index: 3;
+        color: white;
+
+
+
+
+
+    }
+
+    .firstdivHeadline {
+
+        font-size: 4.5vmin;
+        color: #f0ad4e;
+
+
+
+
+    }
+
+    .firstdivText {
+
+        font-size: 3.3vmin;
+        text-align: center;
+
+
+
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    .buttonLinkDiv {
+        height: 10vmin;
+        width: 90%;
+        z-index: 100;
+        display: flex;
+        align-items: flex-end;
+        justify-content: center;
+
+
+
+    }
+
+
+
+    .button {
+
+        padding: 7px;
+        border-radius: 7px;
+        background-color: transparent;
+        color: white;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+
+        text-decoration: none;
+        border: 2px solid #f0ad4e;
+
+        width: 25vmin;
+        height: 6.9vmin;
+        font-size: 2.8vmin;
+
+        cursor: pointer;
+
+
+
+
+
+
+    }
+
+
+}
+
+
+
+

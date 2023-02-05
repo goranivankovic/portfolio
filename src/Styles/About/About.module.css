@@ -1,0 +1,663 @@
+
+
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+
+ .particles {
+    height: 90vmin;
+    width: 100%;
+    position: absolute;
+    top: 0%;
+    left: 0%;
+    padding: 0%;
+    margin: 0%;
+
+ 
+}  
+  
+
+
+.main{
+
+    min-height: 70vmin;
+    width: 100%;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+
+    /* border: 1px solid red; */
+   
+
+
+
+}
+
+
+
+
+
+
+
+.firstDiv{
+
+    min-height: 50vmin;
+    width: 45%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+    color: white;
+    text-align: center;
+    text-align: left;
+    z-index: 5;
+  
+
+        /* border: 1px solid red; */
+
+}
+.firstdivHeadline{
+    font-size: 3vmin;
+    color: #f0ad4e;
+}
+
+.firstdivText{
+    font-size: 2.1vmin;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.buttonLinkDiv {
+    height: 10vmin;
+    width: 80%;
+    z-index: 100;
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+
+    /* border: 2px solid red; */
+
+}
+
+
+
+.button {
+   
+    padding: 7px;
+    border-radius: 7px;
+    background-color: transparent;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    text-decoration: none;
+    border: 2px solid #f0ad4e;
+
+    width: 20vmin;
+    height: 5.5vmin;
+    font-size: 2.1vmin;
+
+    cursor: pointer;
+
+
+
+
+
+
+}
+
+.button:hover {
+    transition: 600ms;
+    background-color: #f0ad4e;
+    color: white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media only screen and (min-width: 1601px) and (max-width: 1921px) {
+
+
+    .firstDiv {
+    
+            min-height: 50vmin;
+            width: 50%;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: space-around;
+            color: white;
+            text-align: center;
+            text-align: left;
+            z-index: 5;
+    
+    
+
+    
+        }
+    
+        .firstdivHeadline {
+            font-size: 3vmin;
+            color: #f0ad4e;
+        }
+    
+        .firstdivText {
+            font-size: 2vmin;
+        }
+
+
+}
+
+
+
+
+
+
+
+
+@media only screen and  (max-width: 992px) {
+
+    .firstDiv {
+    
+            min-height: 50vmin;
+            width: 50%;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: space-around;
+            color: white;
+            text-align: center;
+            text-align: left;
+            z-index: 5;
+    
+    
+    
+    
+        }
+    
+        .firstdivHeadline {
+            font-size: 3vmin;
+            color: #f0ad4e;
+        }
+    
+        .firstdivText {
+            font-size: 2vmin;
+        }
+
+
+}
+
+
+
+
+
+
+
+
+
+@media only screen and (max-width: 768px) {
+
+    .particles {
+          display: none;
+    
+    
+        }
+    
+    
+    
+        .main {
+    
+            min-height: 100vmin;
+            width: 100%;
+            cursor: pointer;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            flex-direction: column;
+    
+       
+    
+    
+    
+    
+        }
+
+
+
+    .firstDiv {
+
+        min-height: 50vmin;
+        width: 65%;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: space-around;
+        color: white;
+        text-align: center;
+        text-align: left;
+        z-index: 5;
+
+
+
+
+    }
+
+    .firstdivHeadline {
+        font-size: 3vmin;
+        color: #f0ad4e;
+    }
+
+    .firstdivText {
+        font-size: 2.1vmin;
+    }
+
+
+
+
+        .buttonLinkDiv {
+            height: 10vmin;
+            width: 90%;
+            z-index: 100;
+            display: flex;
+            align-items: flex-end;
+            justify-content: center;
+    
+    
+    
+        }
+    
+    
+    
+        .button {
+    
+            padding: 7px;
+            border-radius: 7px;
+            background-color: transparent;
+            color: white;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+    
+            text-decoration: none;
+            border: 2px solid #f0ad4e;
+    
+            width: 20vmin;
+            height: 5.5vmin;
+            font-size: 2.1vmin;
+    
+            cursor: pointer;
+    
+    
+    
+    
+    
+    
+        }
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+@media only screen and (max-width: 600px) {
+
+
+
+
+    .main {
+
+        min-height: 115vmin;
+        width: 100%;
+        cursor: pointer;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+
+
+
+
+
+
+    }
+
+
+
+    .firstDiv {
+
+        min-height: 50vmin;
+        width: 70%;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: space-around;
+        color: white;
+        text-align: center;
+        text-align: left;
+        z-index: 5;
+
+
+
+
+    }
+
+    .firstdivHeadline {
+        font-size: 3.2vmin;
+        color: #f0ad4e;
+    }
+
+    .firstdivText {
+        font-size: 2.4vmin;
+    }
+
+
+
+        .buttonLinkDiv {
+            height: 10vmin;
+            width: 90%;
+            z-index: 100;
+            display: flex;
+            align-items: flex-end;
+            justify-content: center;
+    
+    
+    
+        }
+    
+    
+    
+        .button {
+    
+            padding: 7px;
+            border-radius: 7px;
+            background-color: transparent;
+            color: white;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+    
+            text-decoration: none;
+            border: 2px solid #f0ad4e;
+    
+            width: 22vmin;
+            height: 6vmin;
+            font-size: 2.4vmin;
+    
+            cursor: pointer;
+    
+    
+    
+    
+    
+    
+        }
+
+
+  
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+@media only screen and (max-width: 500px) {
+
+ 
+
+
+
+    .main {
+
+        min-height: 150vmin;
+        width: 100%;
+        cursor: pointer;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+
+
+
+
+
+
+    }
+
+
+
+    .firstDiv {
+
+        min-height: 55vmin;
+        width: 75%;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: space-around;
+        color: white;
+        text-align: center;
+        text-align: left;
+        z-index: 5;
+
+
+
+
+    }
+
+    .firstdivHeadline {
+        font-size: 3.3vmin;
+        color: #f0ad4e;
+    }
+
+    .firstdivText {
+        font-size: 2.6vmin;
+    }
+
+
+
+        .buttonLinkDiv {
+            height: 10vmin;
+            width: 90%;
+            z-index: 100;
+            display: flex;
+            align-items: flex-end;
+            justify-content: center;
+    
+    
+    
+        }
+    
+    
+    
+        .button {
+    
+            padding: 7px;
+            border-radius:7px;
+            background-color: transparent;
+            color: white;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+    
+            text-decoration: none;
+            border: 2px solid #f0ad4e;
+    
+            width: 23vmin;
+            height: 6.6vmin;
+            font-size: 2.75vmin;
+    
+            cursor: pointer;
+    
+    
+    
+    
+    
+    
+        }
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+@media only screen and (max-width: 450px) {
+
+
+
+
+    .main {
+
+        min-height: 150vmin;
+        width: 100%;
+        cursor: pointer;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+
+
+
+
+
+
+    }
+
+
+
+    .firstDiv {
+
+        min-height: 65vmin;
+        width: 75%;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: space-around;
+        color: white;
+        text-align: center;
+        text-align: left;
+        z-index: 5;
+
+
+
+
+    }
+
+    .firstdivHeadline {
+        font-size: 3.6vmin;
+        color: #f0ad4e;
+    }
+
+    .firstdivText {
+        font-size: 2.9vmin;
+    }
+
+
+
+        .buttonLinkDiv {
+            height: 10vmin;
+            width: 90%;
+            z-index: 100;
+            display: flex;
+            align-items: flex-end;
+            justify-content: center;
+    
+    
+    
+        }
+    
+    
+    
+        .button {
+    
+            padding: 7px;
+            border-radius: 7px;
+            background-color: transparent;
+            color: white;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+    
+            text-decoration: none;
+            border: 2px solid #f0ad4e;
+    
+            width: 25vmin;
+            height: 6.9vmin;
+            font-size: 2.8vmin;
+    
+            cursor: pointer;
+    
+    
+    
+    
+    
+    
+        }
+
+
+
+
+   
+
+}
+
+
