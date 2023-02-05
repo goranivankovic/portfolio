@@ -163,7 +163,7 @@ useEffect(() => {
 									<div>BRIEF</div>
 								
 									<div style={{color:textColor}}>
-										Dynamic app made from scratch using : React, CSS-modules , Axios, React-flags, that asynchronously collects data from two different APIs  'openweather'.  You can also search for any place on earth. For longer description visit github.
+										Dynamic app made from scratch using : React, CSS-Modules , Axios, React-flags, that asynchronously collects data from two different APIs  'openweather'.  You can also search for any place on earth. For longer description visit github.
 									
 									
                                     </div>
