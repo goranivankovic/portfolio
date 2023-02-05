@@ -107,7 +107,7 @@ function NavBar() {
 
             { ! close ?
 
-                  <div className={navStyles.main768} style={{background: bgColor}}>
+                  <div className={navStyles.main768} style={{background: bgColor,borderBottom:`1px solid ${textColor}`}}>
 
                     
                  <Link  style={{color:textColor}} onMouseOver={orangeColor} onMouseOut={defaultColor} to="/">Home </Link>

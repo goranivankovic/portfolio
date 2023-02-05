@@ -194,7 +194,7 @@ useEffect(() => {
 									Dynamic, completly responsive app made from scratch using : React , React Router, React-icons. For longer description visit github.
                                     </div>
 
-									<div className={protfolioStyles.secondDivItem2Buttons}><a href='https://nscoder-fit.netlify.app' style={{color:textColor}}  target='_blank'>Live</a> <a href='https://github.com/goranivankovic/royal-fit' style={{color:textColor}}  target='_blank'>Code</a> </div>
+									<div className={protfolioStyles.secondDivItem2Buttons}><a href='https://nscoder-fit.netlify.app' style={{color:textColor}}  target='_blank'>Live</a> <a href='https://github.com/goranivankovic/fitness-app' style={{color:textColor}}  target='_blank'>Code</a> </div>
 
 								</div>
 
