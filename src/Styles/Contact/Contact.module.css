@@ -552,14 +552,14 @@ textarea{
                 
                 
                                     .submitMessage {
-                                        font-size: 3.7vmin;
+                                        font-size: 4vmin;
                                         font-weight: bolder;
                 
                 
                                     }
                 
                                     .submitMessage span {
-                                        font-size: 2.7vmin;
+                                        font-size:3vmin;
                                         padding-right: 20px;
                                     }
 
@@ -742,14 +742,14 @@ textarea{
 
 
     .submitMessage {
-        font-size: 3.7vmin;
+        font-size:4vmin;
         font-weight: bolder;
 
 
     }
 
     .submitMessage span {
-        font-size: 2.7vmin;
+        font-size: 3vmin;
         padding-right: 20px;
     }
 
@@ -807,7 +807,7 @@ textarea{
 
 
     .main {
-        min-height: 150vmin;
+        min-height: 162vmin;
         width: 100%;
         cursor: pointer;
         display: flex;
@@ -921,14 +921,14 @@ textarea{
 
 
     .submitMessage {
-        font-size: 3.7vmin;
+        font-size: 4.2vmin;
         font-weight: bolder;
 
 
     }
 
     .submitMessage span {
-        font-size: 2.7vmin;
+        font-size: 3vmin;
         padding-right: 20px;
     }
 
