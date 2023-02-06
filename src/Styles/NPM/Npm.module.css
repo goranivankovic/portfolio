@@ -70,7 +70,7 @@
 
 .secondDiv {
     height: 40vmin;
-    width: 55%;
+    width: 50%;
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -189,7 +189,8 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    border: 2px solid red;
+    /* border: 2px solid red; */
+
 }
 
 
@@ -234,7 +235,7 @@
     border: 2px solid #f0ad4e;
 
     width: 20vmin;
-    height: 5.5vmin;
+    height: 5vmin;
     font-size: 2.1vmin;
 
     cursor: pointer;
@@ -307,7 +308,7 @@
 
     .secondDiv {
         height: 40vmin;
-        width: 55%;
+        width: 50%;
         display: flex;
         align-items: center;
         justify-content: space-between;
@@ -475,7 +476,7 @@
 
     .secondDiv {
         height: 40vmin;
-        width: 60%;
+        width: 53%;
         display: flex;
         align-items: center;
         justify-content: space-between;
@@ -623,7 +624,7 @@
 
     .secondDiv {
         height: 40vmin;
-        width: 55%;
+        width: 50%;
         display: flex;
         align-items: center;
         justify-content: space-between;
@@ -720,7 +721,7 @@
 
     .secondDiv {
         height: 40vmin;
-        width: 60%;
+        width: 53%;
         display: flex;
         align-items: center;
         justify-content: space-between;
