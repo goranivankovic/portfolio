@@ -47,7 +47,7 @@
 .firstDiv{
 
     min-height: 50vmin;
-    width: 36%;
+    width: 37%;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -154,7 +154,7 @@
     .firstDiv {
     
             min-height: 50vmin;
-            width: 36%;
+            width: 37%;
             display: flex;
             flex-direction: column;
             align-items: center;
@@ -182,6 +182,30 @@
 }
 
 
+
+@media only screen and (max-width: 1200px) {
+
+    .firstDiv {
+    
+            min-height: 50vmin;
+            width: 42%;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: space-around;
+            color: white;
+            text-align: center;
+            text-align: left;
+            z-index: 5;
+    
+    
+            /* border: 1px solid red; */
+    
+    
+        }
+
+
+}
 
 
 
