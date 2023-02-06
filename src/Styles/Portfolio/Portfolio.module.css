@@ -155,8 +155,8 @@ z-index: 10;
 .secondDivItem2Buttons a{
     text-decoration: none;
     background-color: transparent;
-    height: 5vmin;
-    width: 20vmin;
+    height: 4.5vmin;
+    width: 18vmin;
     border: 2px solid #f0ad4e;
     border-radius: 7px;
     display: flex;

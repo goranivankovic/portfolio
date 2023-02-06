@@ -32,7 +32,7 @@
  }
 
  .first a{
-  font-size: 1.85vmin;
+  font-size: 1.9vmin;
   text-decoration: none;
 
  }
@@ -76,7 +76,7 @@
      @media screen and (max-width:1200px) {
 
       .first a {
-          font-size: 1.8vmin;
+          font-size: 1.85vmin;
           text-decoration: none;
       
         }
