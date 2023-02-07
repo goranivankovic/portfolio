@@ -615,8 +615,6 @@
 
 
 
-
-
 @media only screen and (max-width: 1200px) {
 
 
@@ -624,7 +622,7 @@
 
     .secondDiv {
         height: 40vmin;
-        width: 50%;
+        width: 57%;
         display: flex;
         align-items: center;
         justify-content: space-between;
@@ -647,7 +645,7 @@
         text-decoration: none;
         background-color: transparent;
         height: 4.5vmin;
-        width: 15vmin;
+        width: 13vmin;
         border: 2px solid #f0ad4e;
         border-radius: 7px;
         display: flex;
@@ -661,8 +659,6 @@
 
 
 }
-
-
 
 
 
@@ -721,7 +717,7 @@
 
     .secondDiv {
         height: 40vmin;
-        width: 53%;
+        width: 65%;
         display: flex;
         align-items: center;
         justify-content: space-between;
@@ -765,7 +761,7 @@
         padding: 6px;
 
 
-        font-size: 1.75vmin;
+        font-size: 1.65vmin;
 
 
 

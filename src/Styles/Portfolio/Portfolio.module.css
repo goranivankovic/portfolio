@@ -586,6 +586,32 @@ z-index: 10;
             cursor: pointer;
         }
 
+                 .secondDivItem2 {
+                     height: 39vmin;
+                     width: 46%;
+                     color: white;
+                     display: flex;
+                     flex-direction: column;
+                     align-items: center;
+                     justify-content: space-evenly;
+                     padding: 6px;
+        
+        
+                     font-size: 1.5vmin;
+        
+        
+        
+        
+        
+        
+        
+        
+        
+                 }
+
+
+
+
 }
 
 
@@ -602,7 +628,7 @@ z-index: 10;
 
     .secondDiv {
         height: 40vmin;
-        width: 50%;
+        width: 57%;
         display: flex;
         align-items: center;
         justify-content: space-between;
@@ -625,7 +651,7 @@ z-index: 10;
               text-decoration: none;
               background-color: transparent;
               height: 4.5vmin;
-              width: 15vmin;
+              width: 13vmin;
               border: 2px solid #f0ad4e;
               border-radius: 7px;
               display: flex;
@@ -699,7 +725,7 @@ z-index: 10;
 
     .secondDiv {
         height: 40vmin;
-        width: 53%;
+        width: 65%;
         display: flex;
         align-items: center;
         justify-content: space-between;
@@ -743,7 +769,7 @@ z-index: 10;
         padding: 6px;
 
 
-        font-size: 1.75vmin;
+        font-size: 1.65vmin;
 
 
 
